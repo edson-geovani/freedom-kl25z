@@ -1,0 +1,32 @@
+Dependencies for Project 'CONFIG', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5D236015)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\EdN\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL25Z128xxx4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (../GPIO_CONFIG.h)(0x56E060B3)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C24CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEC22A2)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0plus.h)(0x5C8C08B6)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644C55A)
+F (..\GPIO_CONFIG.c)(0x5D235F65)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\EdN\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL25Z128xxx4-o .\objects\gpio_config.o --omf_browse .\objects\gpio_config.crf --depend .\objects\gpio_config.d)
+I (..\GPIO_CONFIG.h)(0x56E060B3)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C24CA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEC22A2)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0plus.h)(0x5C8C08B6)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644C55A)
+I (..\../Library/utils.h)(0x5D22808C)
+F (..\..\Library\utils.c)(0x5D228142)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\EdN\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL25Z128xxx4-o .\objects\utils.o --omf_browse .\objects\utils.crf --depend .\objects\utils.d)
+I (..\..\Library\utils.h)(0x5D22808C)
+F (RTE\Device\MKL25Z128xxx4\startup_MKL25Z4.s)(0x5644C55A)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\EdN\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "MKL25Z128xxx4 SETA 1"--list .\listings\startup_mkl25z4.lst --xref -o .\objects\startup_mkl25z4.o --depend .\objects\startup_mkl25z4.d)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.c)(0x5644C55A)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\EdN\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="528" -D_RTE_ -DMKL25Z128xxx4-o .\objects\system_mkl25z4.o --omf_browse .\objects\system_mkl25z4.crf --depend .\objects\system_mkl25z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEC22A2)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C24CA)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm0plus.h)(0x5C8C08B6)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B97BD04)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FF694)
+I (C:\Users\EdN\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FF694)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644C55A)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644C55A)()
